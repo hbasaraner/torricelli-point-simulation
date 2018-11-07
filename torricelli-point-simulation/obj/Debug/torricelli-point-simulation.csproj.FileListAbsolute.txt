@@ -1,0 +1,12 @@
+C:\Users\hbsrnr\Desktop\Repos\torricelli-point-simulation\torricelli-point-simulation\bin\Debug\torricelli-point-simulation.exe.config
+C:\Users\hbsrnr\Desktop\Repos\torricelli-point-simulation\torricelli-point-simulation\bin\Debug\torricelli-point-simulation.exe
+C:\Users\hbsrnr\Desktop\Repos\torricelli-point-simulation\torricelli-point-simulation\bin\Debug\torricelli-point-simulation.pdb
+C:\Users\hbsrnr\Desktop\Repos\torricelli-point-simulation\torricelli-point-simulation\bin\Debug\MaterialSkin.dll
+C:\Users\hbsrnr\Desktop\Repos\torricelli-point-simulation\torricelli-point-simulation\obj\Debug\torricelli-point-simulation.csprojAssemblyReference.cache
+C:\Users\hbsrnr\Desktop\Repos\torricelli-point-simulation\torricelli-point-simulation\obj\Debug\torricelli_point_simulation.Form1.resources
+C:\Users\hbsrnr\Desktop\Repos\torricelli-point-simulation\torricelli-point-simulation\obj\Debug\torricelli_point_simulation.Properties.Resources.resources
+C:\Users\hbsrnr\Desktop\Repos\torricelli-point-simulation\torricelli-point-simulation\obj\Debug\torricelli-point-simulation.csproj.GenerateResource.cache
+C:\Users\hbsrnr\Desktop\Repos\torricelli-point-simulation\torricelli-point-simulation\obj\Debug\torricelli-point-simulation.csproj.CoreCompileInputs.cache
+C:\Users\hbsrnr\Desktop\Repos\torricelli-point-simulation\torricelli-point-simulation\obj\Debug\torricelli-point-simulation.csproj.CopyComplete
+C:\Users\hbsrnr\Desktop\Repos\torricelli-point-simulation\torricelli-point-simulation\obj\Debug\torricelli-point-simulation.exe
+C:\Users\hbsrnr\Desktop\Repos\torricelli-point-simulation\torricelli-point-simulation\obj\Debug\torricelli-point-simulation.pdb
